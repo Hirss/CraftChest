@@ -1,0 +1,8 @@
+name: CraftChest
+main: Mev\CraftChest
+version: 1.0.0
+author: Mev
+api: 3.0.0
+commands:
+  craft:
+    description: Open a crafting table for craft nothing for now
